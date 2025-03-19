@@ -1,24 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Salsabila!
 
-## Tentang Saya
-
-Halo, saya Salsabila Fauziah! Saya mahasiswa aktif UPN Veteran Jakarta dengan minat dalam Web development dan Backend Development. Saya berharap dapat memberikan manfaat kepada komunitas.
+I'm diving deep into the world of software development. Alongside coding adventures, I'm on a mission to spotlight women in tech through articles on the Medium platform and mentoring classes.
 
 
 ---
 ### Skills:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c language" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express js" **alt="express js" width="40" height="40"/>
 </div>
